@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-subset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Karma factory for the chai-subset plugin",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "chai"
   ],
   "peerDependencies": {
-      "karma": "^1.0.0",
-      "chai-subset": "^1.5.0"
+    "karma": "^1.0.0",
+    "chai-subset": "^1.5.0"
   },
   "author": "Ivan Tanev <van.tanev@gmail.com>",
   "license": "MIT"
