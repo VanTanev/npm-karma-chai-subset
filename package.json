@@ -1,0 +1,24 @@
+{
+  "name": "karma-chai-subset",
+  "version": "1.0.0",
+  "description": "A Karma factory for the chai-subset plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanTanev/npm-karma-chai-subset.git"
+  },
+  "keywords": [
+    "karma",
+    "test",
+    "chai"
+  ],
+  "peerDependencies": {
+      "karma": "^1.0.0",
+      "chai-subset": "^1.5.0"
+  },
+  "author": "Ivan Tanev <van.tanev@gmail.com>",
+  "license": "MIT"
+}
